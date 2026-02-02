@@ -26,8 +26,8 @@ Vie načítať články z:
 4. Obsahuje fakty/čísla 
 5. Citácie zdrojov
 6. FAQ sekcia 
-7. Obsahuje zoznamy (<ul>/<ol>)  
-8. Obsahuje tabuľky (<table>)  
+7. Obsahuje zoznamy 
+8. Obsahuje tabuľky
 9. Dostatočná dĺžka - Článok má aspoň 500 slov
 10. Meta description - Meta popis existuje a má 120–160 znakov
 
