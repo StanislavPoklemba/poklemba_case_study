@@ -1,0 +1,20 @@
+[
+  {
+    "url": "mock://good-article",
+    "title": "Kreatín: čo to je a ako funguje",
+    "content_html": "<article><h1>Kreatín: čo to je a ako funguje</h1><p>Kreatín je látka, ktorá podporuje výkon pri krátkych intenzívnych výkonoch.</p><h2>Čo je kreatín</h2><p>Typicky sa užíva 3–5 g denne.</p><h2>Dávkovanie</h2><ul><li>3 g denne</li><li>5 g denne</li></ul><h2>Zdroje</h2><p>Zdroje: <a href=\"https://pubmed.ncbi.nlm.nih.gov/\">PubMed</a></p><table><tr><th>Forma</th><th>Poznámka</th></tr><tr><td>Monohydrát</td><td>Najčastejší</td></tr></table><h2>FAQ</h2><p>FAQ: Je kreatín bezpečný? Áno, pri správnom dávkovaní.</p></article>",
+    "meta_description": "Kreatín je doplnok na výkon. Pozri čo je, ako funguje, dávkovanie a na čo si dať pozor pri užívaní."
+  },
+  {
+    "url": "mock://weak-article",
+    "title": "Prečo je spánok dôležitý",
+    "content_html": "<article><h1>Prečo je spánok dôležitý</h1><p>V tomto článku sa pozrieme na spánok a jeho benefity.</p><h2>Benefity</h2><p>Spánok ovplyvňuje regeneráciu.</p></article>",
+    "meta_description": "Spánok a jeho význam."
+  },
+  {
+    "url": "mock://edge-empty-content",
+    "title": "Prázdny článok (edge-case)",
+    "content_html": "",
+    "meta_description": ""
+  }
+]
